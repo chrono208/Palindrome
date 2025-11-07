@@ -19,16 +19,16 @@ It reverses the input string manually and compares the reversed version to the o
 
 
 <h3>Example</h3>
-result = palindrome("racecar")
-print(result)
+result = palindrome("racecar")<br>
+print(result)<br>
 
 <h3>Output</h3>
 True
 
 
 <h3>Example 2</h3>
-result = palindrome("hello")
-print(result)
+result = palindrome("hello")<br>
+print(result)<br>
 
 <h3>Output 2</h3>
 False
